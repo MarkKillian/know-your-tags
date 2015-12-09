@@ -1,5 +1,27 @@
 body{
   /* Don't worry about these properties just yet, they will make more sense later! */
-  width:50%;
+  width:90%;
   margin:auto;
+  background-color: #FA8072;
+}
+h2{
+  color: #FFFFFF;
+}
+p{
+  color: #0000ff;
+}
+#pic1{
+  height: 50%;
+  width:  50%;
+}
+#pic2{
+  height: 100%
+  width: 100%;
+}
+table{
+  background-color: #FFEBCD;
+
+}
+#center{
+  text-align: center;
 }
