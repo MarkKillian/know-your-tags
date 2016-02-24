@@ -20,8 +20,22 @@ p{
 }
 table{
   background-color: #FFEBCD;
+  border: 1px solid blue;
+  margin: auto;
+  padding: 15px;
+}
 
+table thead th{
+  color: blue;
 }
 #center{
   text-align: center;
+}
+ul{
+  text-align: left;
+  margin: auto;
+}
+.footer{
+  margin-bottom: 10px;
+  background-color: #FA8072;
 }
